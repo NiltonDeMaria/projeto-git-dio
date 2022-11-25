@@ -1,1 +1,14 @@
-anotações
+﻿Principais comandos Git:
+
+git init > para iniciar
+git add * > adicionar todos os arquivos
+git commit -m "" > para fazer um commit
+git remote and origin https... > Adiciona o repositório do GitHub
+git push origin main > empurra os arquivos para o GitHub
+
+Outros:
+ls > lista os arquivos da pasta
+mkdir +nome > criar uma pasta
+git config --list > lista as configurações
+cd +nome > entra na pasta
+Ctrl + L > limpa  o terminal
